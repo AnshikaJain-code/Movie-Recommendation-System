@@ -6,6 +6,11 @@ Discover your next favorite movie with AI-powered recommendations.
 
 CineMatch AI is a content-based movie recommendation system that suggests similar movies based on genres, keywords, and plot descriptions. The application leverages Natural Language Processing (NLP), TF-IDF vectorization, and cosine similarity to generate personalized recommendations.
 
+## Pictures
+<img width="1561" height="822" alt="1st" src="https://github.com/user-attachments/assets/bffd6806-1bdf-45c6-a786-5dd09f94ecc2" />
+<img width="990" height="887" alt="2nd" src="https://github.com/user-attachments/assets/777d35ba-b32a-442c-a408-9339b3067226" />
+
+
 ## Features
 
 * 🎥 Content-based movie recommendations
